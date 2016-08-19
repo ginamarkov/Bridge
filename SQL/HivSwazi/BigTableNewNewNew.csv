@@ -1,0 +1,318 @@
+Case_ID,Population_Subgroup,Sex,Age,SAMPSIZE,V_ID,G_ID,P_ID,R_ID
+1,Various groups,B,ALL,22,1,1,1,1
+2,Mineworkers,M,ALL,1885,2,1,2,2
+3,Students,B,ALL,576,3,1,3,3
+4,Prisoners,B,ALL,545,4,1,3,4
+5,Pregnant women,F,ALL,468,5,1,3,5
+6,In-pts.,B,ALL,117,6,1,3,6
+7,STI pts.,B,ALL,319,7,1,3,7
+8,Mineworker STI pts.,M,ALL,846,8,1,4,8
+9,New TB pts.,B,ALL,72,5,1,5,9
+10,STI pts.,F,ALL,339,9,2,6,10
+11,STI pts.,M,ALL,116,10,3,6,11
+12,Blood donors,B,ALL,N/A,11,4,6,12
+13,STI pts.,F,ALL,210,12,5,6,13
+14,STI pts.,F,ALL,832,13,4,6,14
+15,TB pts.,F,ALL,24,14,4,6,15
+16,STI pts.,M,ALL,189,15,6,6,16
+17,Pregnant women,F,ALL,98,16,3,6,17
+18,STI pts.,B,ALL,610,17,2,6,18
+19,Pregnant women,F,ALL,171,18,7,6,19
+20,Pregnant women,F,ALL,716,19,4,6,20
+21,Blood donors,B,ALL,N/A,20,4,6,21
+22,STI pts.,B,ALL,185,21,3,6,22
+23,Pregnant women,F,ALL,279,22,8,6,23
+24,STI pts.,B,ALL,291,23,5,6,24
+25,STI pts.,M,ALL,81,24,5,6,25
+26,STI pts.,M,ALL,271,25,2,6,26
+27,Pregnant women,F,ALL,168,26,5,6,27
+28,STI pts.,B,ALL,1489,27,4,6,28
+29,STI pts.,M,ALL,657,28,4,6,29
+30,TB pts.,B,ALL,72,29,4,6,30
+31,Blood donors,B,ALL,N/A,30,4,6,31
+32,TB pts.,M,ALL,48,31,4,6,32
+33,STI pts.,B,ALL,403,32,6,6,33
+34,STI pts.,F,ALL,214,33,6,6,34
+35,STI pts.,F,ALL,69,34,3,6,35
+36,Blood donors,B,ALL,N/A,32,4,7,36
+37,Suspected AIDS pts.,B,ALL,12,5,9,8,37
+38,Prostitutes,F,ALL,16,35,4,9,38
+39,Military STI pts.,M,ALL,182,36,10,9,39
+40,Pregnant women,F,ALL,729,37,11,9,40
+41,STI pts.,M,ALL,150,38,12,9,41
+42,STI pts.,B,ALL,321,39,13,9,42
+43,New TB pts.,M,ALL,68,40,14,9,43
+44,Pregnant women,F,ALL,2343,32,4,9,44
+45,Pregnant women,F,ALL,411,41,13,9,45
+46,STI pts.,M,ALL,729,42,4,9,46
+47,STI pts.,M,ALL,146,43,13,9,47
+48,STI pts.,M,ALL,265,44,15,9,48
+49,STI pts.,B,ALL,341,20,16,9,49
+50,New TB pts.,B,ALL,106,45,17,9,50
+51,STI pts.,B,ALL,1455,21,4,9,51
+52,Pregnant women,F,ALL,773,46,12,9,52
+53,Pregnant women,F,ALL,430,47,16,9,53
+54,STI pts.,F,ALL,726,48,4,9,54
+55,STI pts.,F,ALL,214,49,18,9,55
+56,STI pts.,F,ALL,175,50,19,9,56
+57,STI pts.,F,ALL,173,51,16,9,57
+58,STI pts.,F,ALL,164,52,20,9,58
+59,STI pts.,B,ALL,364,53,12,9,59
+60,STI pts.,B,ALL,429,54,21,9,60
+61,Military STI pts.,F,ALL,17,55,16,9,61
+62,Military STI pts.,B,ALL,198,56,10,9,62
+63,New TB pts.,F,ALL,38,57,17,9,63
+64,STI pts.,M,ALL,168,58,22,9,64
+65,STI pts.,B,UNK,27,59,13,10,65
+66,Pregnant women,F,UNK,6,37,16,10,66
+67,STI pts.,F,UNK,4,39,11,10,67
+68,STI pts.,B,UNK,32,60,16,10,68
+69,STI pts.,F,ALL,280,61,13,10,69
+70,STI pts.,M,ALL,1160,62,4,10,70
+71,Pregnant women,F,UNK,18,63,11,10,71
+72,STI pts.,F,UNK,3,12,12,10,72
+73,STI pts.,B,UNK,19,58,11,10,73
+74,STI pts.,M,UNK,5,64,11,10,1
+75,Pregnant women,F,UNK,30,65,4,10,74
+76,STI pts.,B,UNK,120,66,4,10,75
+77,Pregnant women,F,UNK,4,67,12,10,76
+78,Pregnant women,F,UNK,2,46,13,10,1
+79,STI pts.,B,UNK,37,68,12,10,77
+80,STI pts.,M,UNK,3,69,12,10,78
+81,STI pts.,F,ALL,281,70,16,10,79
+82,STI pts.,B,ALL,463,9,13,10,80
+83,STI pts.,B,ALL,937,71,11,10,81
+84,STI pts.,M,ALL,156,72,13,10,82
+85,STI pts.,M,ALL,460,44,11,10,83
+86,STI pts.,F,ALL,465,53,11,10,84
+87,Pregnant women,F,ALL,2468,73,4,10,85
+88,STI pts.,B,ALL,2637,74,4,10,86
+89,STI pts.,F,ALL,1366,75,4,10,87
+90,Pregnant women,F,ALL,707,32,12,10,88
+91,Pregnant women,F,ALL,394,76,16,10,89
+92,Pregnant women,F,ALL,423,77,13,10,90
+93,Pregnant women,F,ALL,961,78,11,10,91
+94,STI pts.,B,ALL,651,79,12,10,92
+95,STI pts.,B,ALL,535,22,16,10,93
+96,STI pts.,M,ALL,293,80,12,10,94
+97,STI pts.,F,ALL,325,81,12,10,95
+98,STI pts.,M,ALL,221,24,16,10,96
+99,Pregnant women,F,ALL,N/A,5,4,11,97
+100,STI pts.,B,ALL,N/A,3,4,11,98
+101,Pregnant women,F,ALL,N/A,4,4,11,99
+102,STI pts.,B,ALL,N/A,7,4,11,100
+103,STI pts.,F,ALL,290,82,13,12,101
+104,Pregnant women,F,ALL,447,21,11,12,102
+105,STI pts.,B,ALL,1885,83,4,12,103
+106,In-pts.,B,ALL,1116,6,9,13,104
+107,Pregnant women,F,ALL,387,47,23,12,102
+108,STI pts.,F,ALL,245,84,11,12,105
+109,STI pts.,B,ALL,440,85,13,12,106
+110,In-pts.,B,ALL,326,86,24,13,107
+111,Pregnant women,F,ALL,335,87,13,12,108
+112,STI pts.,M,ALL,782,48,4,12,109
+113,STI pts.,F,ALL,306,70,12,12,110
+114,STI pts.,F,ALL,262,88,16,12,111
+115,STI pts.,B,ALL,442,89,11,12,112
+116,New TB pts.,F,ALL,29,90,4,12,113
+117,In-pts.,M,ALL,444,91,9,13,114
+118,In-pts.,B,ALL,186,92,25,13,115
+119,Pregnant women,F,ALL,472,93,12,12,60
+120,Pregnant women,F,ALL,405,94,16,12,116
+121,Pregnant women,F,ALL,1659,41,4,12,117
+122,Pregnant women,F,ALL,275,35,26,12,118
+123,STI pts.,F,ALL,1103,95,4,12,119
+124,STI pts.,M,ALL,258,96,12,12,120
+125,STI pts.,M,ALL,197,97,11,12,121
+126,STI pts.,M,ALL,177,50,16,12,122
+127,STI pts.,M,ALL,150,98,13,12,123
+128,STI pts.,B,ALL,564,99,12,12,105
+129,STI pts.,B,ALL,439,100,16,12,124
+130,New TB pts.,M,ALL,45,44,4,12,125
+131,New TB pts.,B,ALL,74,101,4,12,126
+132,In-pts. - adult,B,UNK,12,8,9,13,127
+133,In-pts.,F,ALL,629,102,9,13,128
+134,In-pts.,B,ALL,317,103,27,13,129
+135,In-pts.,B,ALL,287,104,28,13,130
+136,Hospitalized in-pts.,B,ALL,N/A,5,1,14,131
+137,Hospitalized in-pts.,B,ALL,N/A,4,29,14,132
+138,New TB pts.,B,ALL,60,105,13,15,133
+139,Pregnant women,F,ALL,2316,106,4,15,134
+140,STI pts.,B,ALL,1063,107,30,15,135
+141,Pregnant women,F,ALL,643,108,11,15,79
+142,New TB pts.,B,ALL,271,109,4,15,136
+143,STI pts.,B,ALL,340,110,13,15,137
+144,Pregnant women,F,ALL,1204,8,31,15,138
+145,Pregnant women,F,ALL,430,111,13,15,77
+146,STI pts.,F,ALL,1301,112,4,15,137
+147,New TB pts.,B,ALL,57,113,11,15,139
+148,New TB pts.,M,ALL,118,114,4,15,140
+149,STI pts.,B,ALL,621,115,11,15,141
+150,Pregnant women,F,ALL,1112,116,30,15,118
+151,Pregnant women,F,ALL,629,117,12,15,142
+152,Pregnant women,F,ALL,614,118,16,15,143
+153,STI pts.,B,ALL,2211,119,4,15,144
+154,STI pts.,B,ALL,1148,120,32,15,145
+155,STI pts.,M,ALL,910,121,4,15,119
+156,New TB pts.,B,ALL,48,122,12,15,146
+157,New TB pts.,B,ALL,106,123,16,15,147
+158,New TB pts.,F,ALL,153,124,4,15,148
+159,STI pts.,B,ALL,665,125,16,15,149
+160,STI pts.,B,ALL,585,126,12,15,150
+161,Pregnant women,F,ALL,633,127,13,16,151
+162,Pregnant women,F,ALL,704,128,12,16,152
+163,Pregnant women,F,ALL,1206,67,33,16,153
+164,Pregnant women,F,ALL,694,46,16,16,154
+165,Pregnant women,F,UNK,3,32,4,16,1
+166,Pregnant women,F,ALL,2787,93,4,16,155
+167,Pregnant women,F,ALL,1581,76,34,16,156
+168,Pregnant women,F,ALL,756,94,11,16,157
+169,Employees,M,ALL,268,129,11,17,158
+170,Employees,M,ALL,3607,130,11,17,159
+171,Employees,M,ALL,308,131,11,17,160
+172,Pregnant women,F,ALL,605,15,12,18,161
+173,Blood donors,B,ALL,N/A,78,4,18,162
+174,Infants born to HIV+ mothers,B,ALL,85,5,35,19,163
+175,Pregnant women,F,ALL,1460,132,36,18,164
+176,Blood donors,B,ALL,N/A,34,4,18,165
+177,Pregnant women,F,ALL,596,133,11,18,166
+178,Blood donors,B,ALL,N/A,94,4,18,167
+179,Blood donors,B,ALL,N/A,134,4,18,168
+180,Blood donors,B,ALL,N/A,135,4,18,169
+181,Infants born to HIV+ mothers,B,ALL,9,4,35,19,1
+182,Pregnant women,F,ALL,2665,32,4,18,170
+183,Pregnant women,F,ALL,739,136,16,18,171
+184,Pregnant women,F,ALL,725,137,13,18,172
+185,Pregnant women,F,ALL,1205,138,37,18,173
+186,Blood donors,B,ALL,N/A,46,4,18,174
+187,Blood donors,B,ALL,N/A,139,4,18,175
+188,Blood donors,B,ALL,N/A,140,4,18,176
+189,Blood donors,B,ALL,N/A,10,4,18,177
+190,Blood donors,B,ALL,N/A,87,4,18,169
+191,Pregnant women,F,ALL,N/A,63,38,18,178
+192,Blood donors,B,ALL,N/A,141,4,18,179
+193,Adults - circumcised,M,ALL,165,142,23,20,180
+194,General population,B,ALL,3375,143,12,20,181
+195,General population,F,ALL,1551,144,26,20,182
+196,General population,M,ALL,1211,145,11,20,68
+197,Adults - circumcised,M,ALL,50,146,11,20,183
+198,General population,F,ALL,6850,147,4,20,184
+199,General population,B,ALL,2930,148,26,20,185
+200,General population,F,ALL,1544,149,13,20,186
+201,Adults - circumcised,M,ALL,306,150,4,20,187
+202,Adults - circumcised,M,ALL,113,151,16,20,188
+203,General population,B,ALL,12756,152,4,20,189
+204,Adults,M,ALL,3763,153,4,20,190
+205,General population,M,ALL,1379,154,26,20,191
+206,General population,F,ALL,1814,155,12,20,192
+207,General population,M,ALL,1844,156,16,20,193
+208,General population,B,ALL,2848,157,13,20,194
+209,Pregnant women,F,ALL,241,158,4,20,195
+210,Adults - circumcised,M,ALL,140,159,26,20,196
+211,Adults - circumcised,M,ALL,92,160,12,20,197
+212,Adults - circumcised,M,ALL,51,161,13,20,198
+213,General population,M,ALL,5906,162,4,20,199
+214,Adults,B,ALL,8187,163,4,20,200
+215,Adults,F,ALL,4424,164,4,20,201
+216,General population,F,ALL,5303,165,23,20,202
+217,General population,M,ALL,4541,166,23,20,203
+218,General population,B,ALL,9844,167,23,20,204
+219,General population,M,ALL,1562,168,12,20,205
+220,General population,F,ALL,2168,169,16,20,206
+221,General population,B,ALL,4012,170,16,20,207
+222,General population,M,ALL,1304,171,13,20,208
+223,General population,F,ALL,1328,172,11,20,209
+224,General population,B,ALL,2539,173,11,20,210
+225,Adults,F,ALL,4183,174,4,20,211
+226,Adults - uncircumcised,M,ALL,3457,175,4,20,212
+227,Adults - uncircumcised,M,ALL,930,176,26,20,213
+228,Adults - uncircumcised,M,ALL,2527,177,23,20,214
+229,Adults - uncircumcised,M,ALL,909,178,12,20,215
+230,Adults - uncircumcised,M,ALL,1110,179,16,20,216
+231,Adults - uncircumcised,M,ALL,712,180,13,20,217
+232,Adults - uncircumcised,M,ALL,726,181,11,20,218
+233,TB pts.,B,ALL,N/A,182,1,21,219
+234,Pregnant women,F,ALL,1031,127,34,22,220
+235,Pregnant women,F,ALL,135,4,1,23,221
+236,Pregnant women,F,ALL,328,133,11,22,222
+237,Pregnant women,F,ALL,N/A,183,16,22,223
+238,Pregnant women,F,ALL,48,4,1,24,224
+239,Pregnant women,F,ALL,1876,32,4,22,225
+240,Pregnant women,F,ALL,405,132,13,22,226
+241,Pregnant women,F,ALL,N/A,108,12,22,227
+242,Pregnant women,F,ALL,N/A,184,33,22,228
+243,Pregnant women,F,ALL,1027,5,1,23,229
+244,Pregnant women,F,ALL,489,5,1,24,230
+245,Pregnant women,F,ALL,494,136,12,22,231
+246,Pregnant women,F,ALL,649,137,16,22,232
+247,Pregnant women,F,ALL,845,138,33,22,233
+248,Pregnant women,F,ALL,2466,117,4,22,234
+249,Pregnant women,F,ALL,N/A,185,11,22,235
+250,Pregnant women,F,ALL,N/A,186,13,22,236
+251,Pregnant women,F,ALL,N/A,187,34,22,237
+252,Prisoners,B,ALL,1587,5,39,25,238
+253,Patients,B,ALL,2961,4,40,26,239
+254,Suspected TB pts.,B,ALL,111,5,41,27,240
+255,Pregnant women,F,ALL,1973,5,42,28,241
+256,Patients,B,ALL,2079,5,43,26,242
+257,TB pts.,B,ALL,N/A,4,1,27,243
+258,Pregnant women,F,ALL,N/A,5,4,29,244
+259,Testing center attendees,B,ALL,2703,4,44,30,245
+260,Pregnant women,F,ALL,1097,6,1,29,246
+261,Testing center attendees,B,ALL,10689,5,44,30,247
+262,Pregnant women,F,ALL,1113,4,1,29,248
+263,Testing center attendees,M,ALL,3246,5,12,31,249
+264,Infants born to HIV+ mothers,B,ALL,N/A,188,4,32,250
+265,Infants born to HIV+ mothers,B,ALL,8769,189,4,32,251
+266,Infants born to HIV+ mothers,B,ALL,3463,190,4,32,252
+267,Infants born to HIV+ mothers,B,ALL,N/A,191,4,32,253
+268,Patients,B,ALL,1976,104,45,33,254
+269,Adult TB pts.,B,ALL,758,189,46,34,255
+270,Patients,B,ALL,1657,102,45,33,256
+271,Testing center attendees,B,ALL,N/A,3,1,35,257
+272,Patients,B,ALL,303,103,47,33,258
+273,Patients,B,ALL,936,192,48,33,259
+274,Prisoners,F,ALL,N/A,15,49,36,260
+275,Infants born to HIV+ mothers,B,ALL,N/A,4,1,37,261
+276,Testing center attendees,B,ALL,2818,86,45,33,262
+277,Testing center attendees,B,ALL,1289,92,47,33,263
+278,Testing center attendees,B,ALL,1357,193,45,33,264
+279,Testing center attendees,B,ALL,597,194,48,33,265
+280,Prisoners,M,ALL,N/A,32,49,36,266
+281,Prison officers,B,ALL,N/A,136,49,36,267
+282,Prison officers,F,ALL,N/A,137,49,36,268
+283,Infants born to HIV+ mothers,B,ALL,N/A,5,1,37,269
+284,Infants born to HIV+ mothers,B,ALL,N/A,6,1,37,165
+285,Prison officers,M,ALL,N/A,133,49,36,270
+286,Adults,M,ALL,1482,79,13,38,271
+287,Prostitutes,F,ALL,317,5,1,39,272
+288,Adults,M,ALL,2385,135,12,38,273
+289,Adults,M,ALL,2460,94,26,38,274
+290,Pregnant women,F,ALL,669,195,4,38,235
+291,Adults,B,ALL,5425,196,26,38,266
+292,Adults,M,ALL,2743,141,16,38,275
+293,Adults,M,ALL,1719,197,11,38,276
+294,Adults,M,ALL,5869,78,23,38,277
+295,Adults - uncircumcised,M,ALL,6633,41,4,38,278
+296,Young women,F,ALL,N/A,198,1,40,279
+297,Adults,B,ALL,3333,34,13,38,280
+298,Adults,B,ALL,18109,5,4,41,281
+299,Adults,F,ALL,2799,87,12,38,282
+300,Adults,B,ALL,12747,199,23,38,283
+301,TB pts.,B,ALL,7485,5,50,42,284
+302,Adults,F,ALL,3348,63,16,38,285
+303,Adults,F,ALL,1851,68,13,38,286
+304,Adults,F,ALL,2965,46,26,38,227
+305,Adults,F,ALL,1845,200,11,38,287
+306,Adults,B,ALL,18172,32,4,38,288
+307,Adults - circumcised,M,ALL,1373,201,4,38,289
+308,Adults,F,ALL,6879,139,23,38,290
+309,Prostitutes,F,ALL,320,32,1,43,291
+310,Young men,M,ALL,N/A,202,1,40,292
+311,Adults,B,ALL,6091,140,16,38,293
+312,Adults,F,ALL,9843,136,4,38,294
+313,Adults,B,ALL,3565,10,11,38,295
+314,Adults,M,ALL,8329,15,4,38,296
+315,Adults,B,ALL,5183,134,12,38,297
+316,Homosexuals,M,ALL,321,15,1,43,298
+317,Prostitutes,F,ALL,317,189,1,44,272

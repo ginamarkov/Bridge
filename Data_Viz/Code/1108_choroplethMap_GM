@@ -1,0 +1,57 @@
+import plotly.plotly as ply
+import pandas as pd
+
+#add your username and API key so we can talk to plotly
+ply.sign_in('ginamarkov', '5ea991sach')
+
+
+# this function returns a data frame, a two dimensional size mutable table
+food_production = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv')
+
+for col in food_production.columns:
+	food_production[col] = food_production[col].astype(str)
+
+#plotly tales its arguments in dictionary format
+
+geo_deets = dict(
+		scope='usa',
+		projection=dict(type='albers usa'),
+		showlakes = True,
+		lakecolor = 'lightsteelblue'
+	)
+
+map_layout = dict(
+	title = '2011 Production of Agriculture by State',
+	geo = geo_deets
+	)
+
+salmon_scale = [[0.0, 'peachpuff'], [1.0, 'firebrick']]
+
+
+food_production['text'] = food_production['state'] + '<br> Beef: ' + food_production['beef'] + '<br> Pork: ' + food_production['pork'] + '<br> Dairy: ' + food_production['dairy'] + '<br> Fresh Fruits: ' + food_production['fruits fresh'] + '<br> Beef: ' + food_production['beef'] + '<br> Veggies: ' + food_production['veggies fresh'] + '<br> Corn: ' + food_production['corn'] + '<br> Wheat: ' + food_production['wheat'] + '<br> Cotton: ' + food_production['cotton']
+
+stuff_plotly_needs = [ dict(
+		type='choropleth',
+		colorscale= salmon_scale,
+		autocolorscale=False,
+		locations=food_production['code'],
+		z=food_production['total exports'].astype(float),
+		locationmode = 'USA-states',
+		text= food_production['text'],
+		marker = dict(
+			line = dict(
+				color = 'rgb(255, 255, 255)',
+				width=2
+				)	
+			),
+		colorbar = dict(
+			title='Millions USD'
+			)
+	)]
+
+plotly_fig = dict(
+		data= stuff_plotly_needs,
+		layout = map_layout
+	)
+
+ply.plot(plotly_fig, filename='agricultural-exports-map-2011')

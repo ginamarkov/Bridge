@@ -1,0 +1,32 @@
+
+
+def dino_data (facts):
+
+	egg_shell_layers = [["1", "Sauropod"], ["2", "Oviraptorid"], ["3", "Troodontid"], ["4", "Emu"]]
+	nest_types = [["long nest", "Weavebird"], ["tiny nest", "Hummingbird"], ["clay nest", "Rufuos hornero"]]
+	brain_parts = [["cerebellum", "moving"],["olfactory region", "smelling"], ["cerebrum", "learning"], ["optic lobe", "seeing"]]
+	skull_comparison = [["alligator", "different"], ["early dino", "different"], ["non bird dino", "similar"], ["chicken", "similar"]]
+	feather_function = [["Andean Condor", "flight"], ["Wood duck", "warmth"], ["Ribbon tailed Astrapia", "display"]]
+
+	if facts=="egg shell layers":
+		for data in egg_shell_layers:
+			print ("For the " +data[1]+ ", the egg shell had " +data[0]+ " layer(s).")
+				
+	elif facts=="nest types":
+	 	for data in nest_types:
+			print ("The " +data[1]+ "makes a " +data[0])
+
+	elif facts=="brain parts":
+		for data in brain_parts:
+			print ("The " +data[0]+ " is for " +data[1])
+	elif facts=="skull comparison":
+		for data in skull_comparison:
+			print ("The embryo's skull of the " +data[0]+ " was " +data[1]+ " to that of the adult.")
+
+	elif facts=="feather function":
+		for data in feather_function:
+			print ("The feathers of the " +data[0]+ " are used for " +data[1])
+	#else:
+		#print ("There is no information for this topic.")
+
+dino_data(raw_input("Do you want to know about egg shell layers, nest types, brain parts, skull comparison, or feather function?"))
